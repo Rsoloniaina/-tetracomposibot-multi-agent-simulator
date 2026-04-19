@@ -25,5 +25,3 @@ Chaque robot possède un comportement spécifique (exploration, évitement, stra
 ## Objectif
 Analyser les comportements émergents dans un système multi-agents.
 
-## Auteur
-Razafinjato Soloniaina
